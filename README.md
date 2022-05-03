@@ -8,11 +8,11 @@ Purpose:replace the inaccurate data for the 9th graders at Thomas High School wh
 
 Most of the metrics from the original analysis remained the same. It's reasonable because we have a large set of data. When removed a small part of the data (math and readoing scores of 9th graders at Thomas High School), the data would not be skewed dreastically.
 
+Original table from original data analysis (math & reading scores for 9th graders at Thomas High School)
 <img width="1008" alt="Screen Shot 2022-05-03 at 1 04 33 AM" src="https://user-images.githubusercontent.com/102835776/166421539-8f31ea20-68c7-4d13-bc5b-f41981c93c11.png">
-Caption: Original table from original data analysis (math & reading scores for 9th graders at Thomas High School)
 
+Recent table from recebt data analysis (math & reading scores for 9th graders at Thomas High School were removed)
 <img width="1006" alt="Screen Shot 2022-05-03 at 1 06 11 AM" src="https://user-images.githubusercontent.com/102835776/166421680-c761c4b5-2826-46c9-8963-201713904462.png">
-Caption: Recent table from recebt data analysis (math & reading scores for 9th graders at Thomas High School were removed)
 
 Difference between 2 tables: averages and percent passing at Thomas High School. 
 Conclusion: overall results remained approximately the same even though some of the datas were removed.
@@ -24,3 +24,4 @@ Major changes:
 -  the number of students counted at Thomas High School 
 -  the average math and reading scores
 -  the overall percentages for math and reading at Thomas High School. 
+When removed data, we can see the decreasing in the count of total students overall, and total students at Thomas High School. The decreasing of the total students lead to a change in average scores and score percentages. The tables show that the change in scores and score pecentages are minimum which we can assume that the removal of math and reading scores of 9th graders at Thomas High School is not as significant as we would have thought.
