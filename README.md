@@ -23,5 +23,6 @@ Major changes:
 -  the number of total students
 -  the number of students counted at Thomas High School 
 -  the average math and reading scores
--  the overall percentages for math and reading at Thomas High School. 
+-  the overall percentages for math and reading at Thomas High School.
+
 When removed data, we can see the decreasing in the count of total students overall, and total students at Thomas High School. The decreasing of the total students lead to a change in average scores and score percentages. The tables show that the change in scores and score pecentages are minimum which we can assume that the removal of math and reading scores of 9th graders at Thomas High School is not as significant as we would have thought.
